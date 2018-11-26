@@ -1,1 +1,1 @@
-# Registry
+# A simple Registry system template
