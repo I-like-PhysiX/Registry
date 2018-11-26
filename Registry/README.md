@@ -1,4 +1,4 @@
-# Registry
+# Registry with localstorage
 
 ## Project setup
 ```
