@@ -25,5 +25,10 @@ npm run test
 npm run lint
 ```
 
+### Compiles and minifies for production (electron)
+```
+npm run electron:build
+```
+
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
